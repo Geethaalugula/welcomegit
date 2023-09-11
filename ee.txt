@@ -1,2 +1,6 @@
 hai,how are you
 good morning
+where are you going
+java scripting
+c
+html
